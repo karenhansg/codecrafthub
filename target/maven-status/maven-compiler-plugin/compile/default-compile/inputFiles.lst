@@ -1,0 +1,8 @@
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/model/Course.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/controller/CourseController.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/exception/InvalidCourseException.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/exception/CourseNotFoundException.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/exception/FileStorageException.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/exception/GlobalExceptionHandler.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/CodeCraftHubApplication.java
+/Users/karenhan/workspace/codecrafthub/src/main/java/com/codecrafthub/service/CourseService.java
